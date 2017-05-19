@@ -193,10 +193,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c15e7c', end
 	margin-top: 30px;
 }
 
-#About {
+/*#About {
 	height: 100vh;
 	padding-top: 30px;
-}
+}*/
 
 #Works {
 	height: 100vh;
