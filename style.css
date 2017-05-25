@@ -211,7 +211,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c15e7c', end
 
 .carousel-inner > .item > img {
 	    margin: 0 auto;
-	}
+	    background-color: white;
+}
 
 .sundiv {
 	width: 100%;
