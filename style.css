@@ -139,6 +139,7 @@ body {
 .art-header {
 	font-family: 'Amatic SC', cursive;
 	text-align: center;
+	margin-bottom: 50px;
 }
 
 .about {
@@ -209,6 +210,15 @@ body {
 	float: right !important;
 }*/
 
+.downarrow-div {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#downarrow {
+	height: 60px;
+}
+
 .contentHeader {
 	text-align: center;
 	margin-top: 30px;
@@ -218,9 +228,37 @@ body {
 	margin-bottom: 40px;
 }
 
+.carousel {
+	margin-bottom: 100px !important;
+}
+
 .carousel-inner > .item > img {
 	    margin: 0 auto;
 	    background-color: white;
+}
+
+.carousel-control.left {
+	background-image: none !important;
+}
+
+.carousel-control.right {
+	background-image: none !important;
+}
+
+.carousel-control {
+	color: #1f2020 !important;
+}
+
+.arrowright {
+	height: 30px;
+	top: 50%;
+	position: absolute;
+}
+
+.arrowleft {
+	height: 30px;
+	top: 50%;
+	position: absolute;
 }
 
 .sundiv {
